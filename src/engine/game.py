@@ -207,7 +207,7 @@ class Game:
 
             'rematch/idle': load_image('UI/Buttons/Rematch/Idle.png',color_key_selector=True),
             'rematch/hovered': load_image('UI/Buttons/Rematch/Hovered.png',color_key_selector=True),
-            'rematch/pressed': load_image('UI/Buttons/Rematch/pressed.png',color_key_selector=True),
+            'rematch/pressed': load_image('UI/Buttons/Rematch/Pressed.png',color_key_selector=True),
 
             'login/idle': load_image('UI/Buttons/Login/Idle.png',color_key_selector=True),
             'login/hovered': load_image('UI/Buttons/Login/Hovered.png',color_key_selector=True),
@@ -295,7 +295,7 @@ class Game:
             'mode_select': load_image('Mode Select.png',color_key_selector=True),
             'lobby_code': load_image('Lobby Code.png',color_key_selector=True),
             'invite_menu': load_image('Invite Menu.png', color_key_selector=True),
-            'waiting_for_invitation': load_image('Waiting For Invitation.png', color_key_selector=True),
+            'waiting_for_invitation': load_image('Waiting for Invitation.png', color_key_selector=True),
             'waiting_for_accept': load_image('Waiting For Accept.png', color_key_selector=True),
             'match_invitation': load_image('Match Invitation.png', color_key_selector=True),
             'invitation_accepted': load_image('Invitation Accepted.png', color_key_selector=True),
