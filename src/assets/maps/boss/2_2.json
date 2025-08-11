@@ -1,0 +1,2617 @@
+{
+    "tilemap": {
+        "6.0;8.0": {
+            "tile_type": "grass",
+            "variant": 0,
+            "position": "6.0;8.0"
+        },
+        "7.0;8.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "7.0;8.0"
+        },
+        "8.0;8.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "8.0;8.0"
+        },
+        "9.0;8.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "9.0;8.0"
+        },
+        "10.0;8.0": {
+            "tile_type": "grass",
+            "variant": 29,
+            "position": "10.0;8.0"
+        },
+        "11.0;8.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "11.0;8.0"
+        },
+        "12.0;8.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "12.0;8.0"
+        },
+        "13.0;8.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "13.0;8.0"
+        },
+        "14.0;8.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "14.0;8.0"
+        },
+        "15.0;8.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "15.0;8.0"
+        },
+        "16.0;8.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "16.0;8.0"
+        },
+        "17.0;8.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "17.0;8.0"
+        },
+        "18.0;8.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "18.0;8.0"
+        },
+        "19.0;8.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "19.0;8.0"
+        },
+        "20.0;8.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "20.0;8.0"
+        },
+        "21.0;8.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "21.0;8.0"
+        },
+        "22.0;8.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "22.0;8.0"
+        },
+        "23.0;8.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "23.0;8.0"
+        },
+        "24.0;8.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "24.0;8.0"
+        },
+        "25.0;8.0": {
+            "tile_type": "grass",
+            "variant": 39,
+            "position": "25.0;8.0"
+        },
+        "26.0;8.0": {
+            "tile_type": "grass",
+            "variant": 59,
+            "position": "26.0;8.0"
+        },
+        "27.0;8.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "27.0;8.0"
+        },
+        "28.0;8.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "28.0;8.0"
+        },
+        "29.0;8.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "29.0;8.0"
+        },
+        "30.0;8.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "30.0;8.0"
+        },
+        "31.0;8.0": {
+            "tile_type": "grass",
+            "variant": 2,
+            "position": "31.0;8.0"
+        },
+        "29.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 2,
+            "position": "29.0;-4.0"
+        },
+        "28.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "28.0;-4.0"
+        },
+        "27.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "27.0;-4.0"
+        },
+        "26.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "26.0;-4.0"
+        },
+        "25.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "25.0;-4.0"
+        },
+        "24.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "24.0;-4.0"
+        },
+        "23.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "23.0;-4.0"
+        },
+        "22.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "22.0;-4.0"
+        },
+        "21.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "21.0;-4.0"
+        },
+        "20.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "20.0;-4.0"
+        },
+        "19.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "19.0;-4.0"
+        },
+        "17.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 39,
+            "position": "17.0;-4.0"
+        },
+        "16.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "16.0;-4.0"
+        },
+        "15.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "15.0;-4.0"
+        },
+        "14.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "14.0;-4.0"
+        },
+        "13.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "13.0;-4.0"
+        },
+        "12.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "12.0;-4.0"
+        },
+        "11.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "11.0;-4.0"
+        },
+        "10.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "10.0;-4.0"
+        },
+        "9.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "9.0;-4.0"
+        },
+        "8.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "8.0;-4.0"
+        },
+        "7.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 1,
+            "position": "7.0;-4.0"
+        },
+        "6.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 0,
+            "position": "6.0;-4.0"
+        },
+        "18.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 39,
+            "position": "18.0;-4.0"
+        },
+        "6.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 10,
+            "position": "6.0;-3.0"
+        },
+        "6.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 10,
+            "position": "6.0;-2.0"
+        },
+        "6.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 20,
+            "position": "6.0;-1.0"
+        },
+        "29.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 12,
+            "position": "29.0;-3.0"
+        },
+        "29.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 12,
+            "position": "29.0;-2.0"
+        },
+        "29.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 22,
+            "position": "29.0;-1.0"
+        },
+        "28.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "28.0;-1.0"
+        },
+        "27.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "27.0;-1.0"
+        },
+        "26.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "26.0;-1.0"
+        },
+        "25.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "25.0;-1.0"
+        },
+        "24.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "24.0;-1.0"
+        },
+        "23.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "23.0;-1.0"
+        },
+        "22.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "22.0;-1.0"
+        },
+        "21.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "21.0;-1.0"
+        },
+        "20.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "20.0;-1.0"
+        },
+        "19.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "19.0;-1.0"
+        },
+        "18.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "18.0;-1.0"
+        },
+        "17.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "17.0;-1.0"
+        },
+        "16.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "16.0;-1.0"
+        },
+        "15.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "15.0;-1.0"
+        },
+        "14.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "14.0;-1.0"
+        },
+        "13.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "13.0;-1.0"
+        },
+        "12.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "12.0;-1.0"
+        },
+        "11.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "11.0;-1.0"
+        },
+        "10.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "10.0;-1.0"
+        },
+        "9.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "9.0;-1.0"
+        },
+        "8.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "8.0;-1.0"
+        },
+        "7.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "7.0;-1.0"
+        },
+        "27.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "27.0;-3.0"
+        },
+        "26.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "26.0;-3.0"
+        },
+        "25.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "25.0;-3.0"
+        },
+        "24.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "24.0;-3.0"
+        },
+        "28.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "28.0;-3.0"
+        },
+        "28.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "28.0;-2.0"
+        },
+        "27.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "27.0;-2.0"
+        },
+        "26.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "26.0;-2.0"
+        },
+        "25.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "25.0;-2.0"
+        },
+        "24.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "24.0;-2.0"
+        },
+        "23.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "23.0;-2.0"
+        },
+        "22.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "22.0;-2.0"
+        },
+        "21.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "21.0;-2.0"
+        },
+        "20.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "20.0;-2.0"
+        },
+        "19.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "19.0;-2.0"
+        },
+        "18.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "18.0;-2.0"
+        },
+        "17.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "17.0;-2.0"
+        },
+        "16.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "16.0;-2.0"
+        },
+        "15.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "15.0;-2.0"
+        },
+        "14.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "14.0;-2.0"
+        },
+        "13.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "13.0;-2.0"
+        },
+        "12.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "12.0;-2.0"
+        },
+        "11.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "11.0;-2.0"
+        },
+        "10.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "10.0;-2.0"
+        },
+        "9.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "9.0;-2.0"
+        },
+        "8.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "8.0;-2.0"
+        },
+        "7.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "7.0;-2.0"
+        },
+        "7.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 14,
+            "position": "7.0;-3.0"
+        },
+        "8.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "8.0;-3.0"
+        },
+        "9.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "9.0;-3.0"
+        },
+        "10.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "10.0;-3.0"
+        },
+        "11.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "11.0;-3.0"
+        },
+        "12.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "12.0;-3.0"
+        },
+        "13.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "13.0;-3.0"
+        },
+        "14.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "14.0;-3.0"
+        },
+        "15.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "15.0;-3.0"
+        },
+        "16.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "16.0;-3.0"
+        },
+        "17.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "17.0;-3.0"
+        },
+        "18.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "18.0;-3.0"
+        },
+        "19.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "19.0;-3.0"
+        },
+        "20.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 14,
+            "position": "20.0;-3.0"
+        },
+        "21.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "21.0;-3.0"
+        },
+        "22.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "22.0;-3.0"
+        },
+        "23.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "23.0;-3.0"
+        },
+        "6.0;9.0": {
+            "tile_type": "grass",
+            "variant": 10,
+            "position": "6.0;9.0"
+        },
+        "6.0;10.0": {
+            "tile_type": "grass",
+            "variant": 10,
+            "position": "6.0;10.0"
+        },
+        "6.0;11.0": {
+            "tile_type": "grass",
+            "variant": 10,
+            "position": "6.0;11.0"
+        },
+        "6.0;12.0": {
+            "tile_type": "grass",
+            "variant": 10,
+            "position": "6.0;12.0"
+        },
+        "6.0;13.0": {
+            "tile_type": "grass",
+            "variant": 10,
+            "position": "6.0;13.0"
+        },
+        "6.0;14.0": {
+            "tile_type": "grass",
+            "variant": 10,
+            "position": "6.0;14.0"
+        },
+        "6.0;15.0": {
+            "tile_type": "grass",
+            "variant": 10,
+            "position": "6.0;15.0"
+        },
+        "6.0;16.0": {
+            "tile_type": "grass",
+            "variant": 10,
+            "position": "6.0;16.0"
+        },
+        "6.0;17.0": {
+            "tile_type": "grass",
+            "variant": 20,
+            "position": "6.0;17.0"
+        },
+        "31.0;10.0": {
+            "tile_type": "grass",
+            "variant": 12,
+            "position": "31.0;10.0"
+        },
+        "31.0;11.0": {
+            "tile_type": "grass",
+            "variant": 12,
+            "position": "31.0;11.0"
+        },
+        "31.0;12.0": {
+            "tile_type": "grass",
+            "variant": 12,
+            "position": "31.0;12.0"
+        },
+        "31.0;9.0": {
+            "tile_type": "grass",
+            "variant": 12,
+            "position": "31.0;9.0"
+        },
+        "31.0;13.0": {
+            "tile_type": "grass",
+            "variant": 12,
+            "position": "31.0;13.0"
+        },
+        "31.0;14.0": {
+            "tile_type": "grass",
+            "variant": 12,
+            "position": "31.0;14.0"
+        },
+        "31.0;15.0": {
+            "tile_type": "grass",
+            "variant": 12,
+            "position": "31.0;15.0"
+        },
+        "31.0;16.0": {
+            "tile_type": "grass",
+            "variant": 12,
+            "position": "31.0;16.0"
+        },
+        "31.0;17.0": {
+            "tile_type": "grass",
+            "variant": 22,
+            "position": "31.0;17.0"
+        },
+        "7.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "7.0;17.0"
+        },
+        "8.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "8.0;17.0"
+        },
+        "9.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "9.0;17.0"
+        },
+        "10.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "10.0;17.0"
+        },
+        "11.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "11.0;17.0"
+        },
+        "12.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "12.0;17.0"
+        },
+        "13.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "13.0;17.0"
+        },
+        "14.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "14.0;17.0"
+        },
+        "15.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "15.0;17.0"
+        },
+        "16.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "16.0;17.0"
+        },
+        "17.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "17.0;17.0"
+        },
+        "18.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "18.0;17.0"
+        },
+        "19.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "19.0;17.0"
+        },
+        "20.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "20.0;17.0"
+        },
+        "21.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "21.0;17.0"
+        },
+        "22.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "22.0;17.0"
+        },
+        "23.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "23.0;17.0"
+        },
+        "24.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "24.0;17.0"
+        },
+        "25.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "25.0;17.0"
+        },
+        "26.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "26.0;17.0"
+        },
+        "27.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "27.0;17.0"
+        },
+        "28.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "28.0;17.0"
+        },
+        "29.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "29.0;17.0"
+        },
+        "30.0;17.0": {
+            "tile_type": "grass",
+            "variant": 4,
+            "position": "30.0;17.0"
+        },
+        "7.0;9.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "7.0;9.0"
+        },
+        "8.0;9.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "8.0;9.0"
+        },
+        "9.0;9.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "9.0;9.0"
+        },
+        "10.0;9.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "10.0;9.0"
+        },
+        "11.0;9.0": {
+            "tile_type": "grass",
+            "variant": 14,
+            "position": "11.0;9.0"
+        },
+        "12.0;9.0": {
+            "tile_type": "grass",
+            "variant": 14,
+            "position": "12.0;9.0"
+        },
+        "13.0;9.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "13.0;9.0"
+        },
+        "14.0;9.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "14.0;9.0"
+        },
+        "15.0;9.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "15.0;9.0"
+        },
+        "16.0;9.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "16.0;9.0"
+        },
+        "17.0;9.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "17.0;9.0"
+        },
+        "18.0;9.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "18.0;9.0"
+        },
+        "19.0;9.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "19.0;9.0"
+        },
+        "20.0;9.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "20.0;9.0"
+        },
+        "21.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "21.0;10.0"
+        },
+        "22.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "22.0;10.0"
+        },
+        "23.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "23.0;10.0"
+        },
+        "24.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "24.0;10.0"
+        },
+        "25.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "25.0;10.0"
+        },
+        "26.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "26.0;10.0"
+        },
+        "26.0;9.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "26.0;9.0"
+        },
+        "27.0;9.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "27.0;9.0"
+        },
+        "28.0;9.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "28.0;9.0"
+        },
+        "29.0;9.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "29.0;9.0"
+        },
+        "25.0;9.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "25.0;9.0"
+        },
+        "24.0;9.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "24.0;9.0"
+        },
+        "23.0;9.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "23.0;9.0"
+        },
+        "22.0;9.0": {
+            "tile_type": "grass",
+            "variant": 14,
+            "position": "22.0;9.0"
+        },
+        "21.0;9.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "21.0;9.0"
+        },
+        "30.0;9.0": {
+            "tile_type": "grass",
+            "variant": 14,
+            "position": "30.0;9.0"
+        },
+        "30.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "30.0;10.0"
+        },
+        "30.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "30.0;11.0"
+        },
+        "30.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "30.0;12.0"
+        },
+        "30.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "30.0;13.0"
+        },
+        "30.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "30.0;14.0"
+        },
+        "30.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "30.0;15.0"
+        },
+        "30.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "30.0;16.0"
+        },
+        "29.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "29.0;16.0"
+        },
+        "28.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "28.0;16.0"
+        },
+        "27.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "27.0;16.0"
+        },
+        "26.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "26.0;16.0"
+        },
+        "25.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "25.0;16.0"
+        },
+        "24.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "24.0;16.0"
+        },
+        "23.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "23.0;16.0"
+        },
+        "22.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "22.0;16.0"
+        },
+        "21.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "21.0;16.0"
+        },
+        "20.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "20.0;16.0"
+        },
+        "19.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "19.0;16.0"
+        },
+        "18.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "18.0;16.0"
+        },
+        "17.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "17.0;16.0"
+        },
+        "16.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "16.0;16.0"
+        },
+        "15.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "15.0;16.0"
+        },
+        "14.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "14.0;16.0"
+        },
+        "13.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "13.0;16.0"
+        },
+        "12.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "12.0;16.0"
+        },
+        "11.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "11.0;16.0"
+        },
+        "10.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "10.0;16.0"
+        },
+        "9.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "9.0;16.0"
+        },
+        "8.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "8.0;16.0"
+        },
+        "7.0;16.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "7.0;16.0"
+        },
+        "7.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "7.0;15.0"
+        },
+        "7.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "7.0;14.0"
+        },
+        "7.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "7.0;13.0"
+        },
+        "7.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "7.0;12.0"
+        },
+        "7.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "7.0;11.0"
+        },
+        "7.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "7.0;10.0"
+        },
+        "8.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "8.0;10.0"
+        },
+        "9.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "9.0;10.0"
+        },
+        "10.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "10.0;10.0"
+        },
+        "11.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "11.0;10.0"
+        },
+        "12.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "12.0;10.0"
+        },
+        "13.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "13.0;10.0"
+        },
+        "14.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "14.0;10.0"
+        },
+        "15.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "15.0;10.0"
+        },
+        "16.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "16.0;10.0"
+        },
+        "17.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "17.0;10.0"
+        },
+        "18.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "18.0;10.0"
+        },
+        "19.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "19.0;10.0"
+        },
+        "20.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "20.0;10.0"
+        },
+        "27.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "27.0;10.0"
+        },
+        "28.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "28.0;10.0"
+        },
+        "29.0;10.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "29.0;10.0"
+        },
+        "29.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "29.0;11.0"
+        },
+        "29.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "29.0;12.0"
+        },
+        "29.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "29.0;13.0"
+        },
+        "28.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "28.0;13.0"
+        },
+        "28.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "28.0;14.0"
+        },
+        "27.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "27.0;14.0"
+        },
+        "26.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "26.0;14.0"
+        },
+        "25.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "25.0;14.0"
+        },
+        "24.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "24.0;14.0"
+        },
+        "23.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "23.0;14.0"
+        },
+        "22.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "22.0;14.0"
+        },
+        "21.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "21.0;14.0"
+        },
+        "20.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "20.0;14.0"
+        },
+        "19.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "19.0;14.0"
+        },
+        "18.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "18.0;14.0"
+        },
+        "17.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "17.0;14.0"
+        },
+        "16.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "16.0;14.0"
+        },
+        "15.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "15.0;14.0"
+        },
+        "14.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "14.0;14.0"
+        },
+        "13.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "13.0;14.0"
+        },
+        "12.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "12.0;14.0"
+        },
+        "11.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "11.0;14.0"
+        },
+        "11.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "11.0;13.0"
+        },
+        "10.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "10.0;13.0"
+        },
+        "9.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "9.0;13.0"
+        },
+        "12.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "12.0;13.0"
+        },
+        "13.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "13.0;13.0"
+        },
+        "14.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "14.0;13.0"
+        },
+        "15.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "15.0;13.0"
+        },
+        "16.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "16.0;13.0"
+        },
+        "17.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "17.0;13.0"
+        },
+        "18.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "18.0;13.0"
+        },
+        "19.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "19.0;13.0"
+        },
+        "20.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "20.0;13.0"
+        },
+        "21.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "21.0;13.0"
+        },
+        "22.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "22.0;13.0"
+        },
+        "23.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "23.0;13.0"
+        },
+        "24.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "24.0;13.0"
+        },
+        "25.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "25.0;13.0"
+        },
+        "26.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "26.0;13.0"
+        },
+        "27.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "27.0;13.0"
+        },
+        "28.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "28.0;12.0"
+        },
+        "28.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "28.0;11.0"
+        },
+        "27.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "27.0;11.0"
+        },
+        "26.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "26.0;11.0"
+        },
+        "25.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "25.0;11.0"
+        },
+        "23.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "23.0;11.0"
+        },
+        "22.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "22.0;11.0"
+        },
+        "21.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "21.0;11.0"
+        },
+        "20.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "20.0;11.0"
+        },
+        "19.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "19.0;11.0"
+        },
+        "18.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "18.0;11.0"
+        },
+        "17.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "17.0;11.0"
+        },
+        "16.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "16.0;11.0"
+        },
+        "15.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "15.0;11.0"
+        },
+        "14.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "14.0;11.0"
+        },
+        "13.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "13.0;11.0"
+        },
+        "12.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "12.0;11.0"
+        },
+        "11.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "11.0;11.0"
+        },
+        "10.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "10.0;11.0"
+        },
+        "9.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "9.0;11.0"
+        },
+        "8.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "8.0;11.0"
+        },
+        "24.0;11.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "24.0;11.0"
+        },
+        "24.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "24.0;12.0"
+        },
+        "25.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "25.0;12.0"
+        },
+        "26.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "26.0;12.0"
+        },
+        "27.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "27.0;12.0"
+        },
+        "23.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "23.0;12.0"
+        },
+        "22.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "22.0;12.0"
+        },
+        "21.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "21.0;12.0"
+        },
+        "20.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "20.0;12.0"
+        },
+        "19.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "19.0;12.0"
+        },
+        "18.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "18.0;12.0"
+        },
+        "17.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "17.0;12.0"
+        },
+        "16.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "16.0;12.0"
+        },
+        "15.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "15.0;12.0"
+        },
+        "14.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "14.0;12.0"
+        },
+        "13.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "13.0;12.0"
+        },
+        "12.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "12.0;12.0"
+        },
+        "11.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "11.0;12.0"
+        },
+        "10.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "10.0;12.0"
+        },
+        "9.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "9.0;12.0"
+        },
+        "8.0;13.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "8.0;13.0"
+        },
+        "8.0;12.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "8.0;12.0"
+        },
+        "8.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "8.0;14.0"
+        },
+        "9.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "9.0;14.0"
+        },
+        "9.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "9.0;15.0"
+        },
+        "10.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "10.0;14.0"
+        },
+        "15.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "15.0;15.0"
+        },
+        "14.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "14.0;15.0"
+        },
+        "13.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "13.0;15.0"
+        },
+        "12.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "12.0;15.0"
+        },
+        "11.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "11.0;15.0"
+        },
+        "10.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "10.0;15.0"
+        },
+        "16.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "16.0;15.0"
+        },
+        "17.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "17.0;15.0"
+        },
+        "18.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "18.0;15.0"
+        },
+        "19.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "19.0;15.0"
+        },
+        "20.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "20.0;15.0"
+        },
+        "21.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "21.0;15.0"
+        },
+        "22.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "22.0;15.0"
+        },
+        "23.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "23.0;15.0"
+        },
+        "24.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "24.0;15.0"
+        },
+        "25.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "25.0;15.0"
+        },
+        "26.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "26.0;15.0"
+        },
+        "27.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "27.0;15.0"
+        },
+        "28.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "28.0;15.0"
+        },
+        "29.0;15.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "29.0;15.0"
+        },
+        "29.0;14.0": {
+            "tile_type": "grass",
+            "variant": 11,
+            "position": "29.0;14.0"
+        },
+        "33.0;2.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "33.0;2.0"
+        },
+        "34.0;2.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "34.0;2.0"
+        },
+        "2.0;2.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "2.0;2.0"
+        },
+        "4.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "4.0;-1.0"
+        },
+        "5.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "5.0;-1.0"
+        },
+        "2.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "2.0;-3.0"
+        },
+        "11.0;3.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "11.0;3.0"
+        },
+        "16.0;6.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "16.0;6.0"
+        },
+        "21.0;1.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "21.0;1.0"
+        },
+        "27.0;-7.0": {
+            "tile_type": "enemies",
+            "variant": 4,
+            "position": "27.0;-7.0"
+        },
+        "7.0;-7.0": {
+            "tile_type": "enemies",
+            "variant": 4,
+            "position": "7.0;-7.0"
+        },
+        "34.0;1.0": {
+            "tile_type": "item",
+            "variant": 0,
+            "position": "34.0;1.0"
+        },
+        "12.0;-5.0": {
+            "tile_type": "item",
+            "variant": 0,
+            "position": "12.0;-5.0"
+        },
+        "6.0;-5.0": {
+            "tile_type": "item",
+            "variant": 0,
+            "position": "6.0;-5.0"
+        },
+        "19.0;7.0": {
+            "tile_type": "item",
+            "variant": 0,
+            "position": "19.0;7.0"
+        },
+        "7.0;7.0": {
+            "tile_type": "item",
+            "variant": 0,
+            "position": "7.0;7.0"
+        },
+        "26.0;-5.0": {
+            "tile_type": "item",
+            "variant": 0,
+            "position": "26.0;-5.0"
+        },
+        "29.0;4.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "29.0;4.0"
+        },
+        "30.0;7.0": {
+            "tile_type": "item",
+            "variant": 0,
+            "position": "30.0;7.0"
+        },
+        "9.0;-8.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "9.0;-8.0"
+        },
+        "15.0;-8.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "15.0;-8.0"
+        },
+        "19.0;-6.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "19.0;-6.0"
+        },
+        "28.0;-6.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "28.0;-6.0"
+        },
+        "5.0;-5.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "5.0;-5.0"
+        },
+        "32.0;-4.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "32.0;-4.0"
+        },
+        "34.0;-1.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "34.0;-1.0"
+        },
+        "13.0;6.0": {
+            "tile_type": "hero",
+            "variant": 0,
+            "position": "13.0;6.0"
+        },
+        "22.0;5.0": {
+            "tile_type": "enemies",
+            "variant": 5,
+            "position": "22.0;5.0"
+        },
+        "5.0;7.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "5.0;7.0"
+        },
+        "4.0;7.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "4.0;7.0"
+        },
+        "3.0;6.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "3.0;6.0"
+        },
+        "2.0;6.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "2.0;6.0"
+        },
+        "1.0;5.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "1.0;5.0"
+        },
+        "0.0;5.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "0.0;5.0"
+        },
+        "-1.0;4.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "-1.0;4.0"
+        },
+        "-2.0;4.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "-2.0;4.0"
+        },
+        "1.0;3.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "1.0;3.0"
+        },
+        "3.0;1.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "3.0;1.0"
+        },
+        "4.0;0.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "4.0;0.0"
+        },
+        "1.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "1.0;-3.0"
+        },
+        "0.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "0.0;-3.0"
+        },
+        "31.0;7.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "31.0;7.0"
+        },
+        "32.0;7.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "32.0;7.0"
+        },
+        "33.0;6.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "33.0;6.0"
+        },
+        "34.0;6.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "34.0;6.0"
+        },
+        "35.0;5.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "35.0;5.0"
+        },
+        "36.0;5.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "36.0;5.0"
+        },
+        "37.0;4.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "37.0;4.0"
+        },
+        "38.0;4.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "38.0;4.0"
+        },
+        "39.0;4.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "39.0;4.0"
+        },
+        "40.0;4.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "40.0;4.0"
+        },
+        "39.0;2.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "39.0;2.0"
+        },
+        "38.0;2.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "38.0;2.0"
+        },
+        "37.0;2.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "37.0;2.0"
+        },
+        "36.0;2.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "36.0;2.0"
+        },
+        "35.0;2.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "35.0;2.0"
+        },
+        "41.0;4.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "41.0;4.0"
+        },
+        "32.0;1.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "32.0;1.0"
+        },
+        "31.0;0.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "31.0;0.0"
+        },
+        "30.0;-1.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "30.0;-1.0"
+        },
+        "32.0;-2.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "32.0;-2.0"
+        },
+        "33.0;-3.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "33.0;-3.0"
+        },
+        "34.0;-4.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "34.0;-4.0"
+        },
+        "32.0;-5.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "32.0;-5.0"
+        },
+        "31.0;-6.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "31.0;-6.0"
+        },
+        "30.0;-7.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "30.0;-7.0"
+        },
+        "-3.0;4.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "-3.0;4.0"
+        },
+        "-4.0;4.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "-4.0;4.0"
+        },
+        "-5.0;4.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "-5.0;4.0"
+        },
+        "7.0;4.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "7.0;4.0"
+        },
+        "5.0;4.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "5.0;4.0"
+        },
+        "3.0;3.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "3.0;3.0"
+        },
+        "1.0;0.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "1.0;0.0"
+        },
+        "2.0;-1.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "2.0;-1.0"
+        },
+        "3.0;-2.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "3.0;-2.0"
+        },
+        "1.0;-6.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "1.0;-6.0"
+        },
+        "-1.0;0.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "-1.0;0.0"
+        },
+        "-4.0;0.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "-4.0;0.0"
+        },
+        "31.0;4.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "31.0;4.0"
+        },
+        "33.0;4.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "33.0;4.0"
+        },
+        "35.0;3.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "35.0;3.0"
+        },
+        "41.0;1.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "41.0;1.0"
+        },
+        "38.0;-1.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "38.0;-1.0"
+        },
+        "31.0;-3.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "31.0;-3.0"
+        },
+        "30.0;-4.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "30.0;-4.0"
+        },
+        "34.0;-6.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "34.0;-6.0"
+        },
+        "33.0;-7.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "33.0;-7.0"
+        },
+        "32.0;-8.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "32.0;-8.0"
+        },
+        "31.0;-9.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "31.0;-9.0"
+        },
+        "30.0;-10.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "30.0;-10.0"
+        },
+        "2.0;-7.0": {
+            "tile_type": "enemies",
+            "variant": 4,
+            "position": "2.0;-7.0"
+        },
+        "36.0;-3.0": {
+            "tile_type": "enemies",
+            "variant": 4,
+            "position": "36.0;-3.0"
+        },
+        "32.0;-1.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "32.0;-1.0"
+        },
+        "4.0;-5.0": {
+            "tile_type": "enemies",
+            "variant": 4,
+            "position": "4.0;-5.0"
+        },
+        "-3.0;0.0": {
+            "tile_type": "enemies",
+            "variant": 4,
+            "position": "-3.0;0.0"
+        },
+        "29.0;-8.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "29.0;-8.0"
+        },
+        "28.0;-9.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "28.0;-9.0"
+        },
+        "27.0;-10.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "27.0;-10.0"
+        },
+        "26.0;-11.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "26.0;-11.0"
+        },
+        "25.0;-12.0": {
+            "tile_type": "grass",
+            "variant": 30,
+            "position": "25.0;-12.0"
+        },
+        "29.0;-11.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "29.0;-11.0"
+        },
+        "28.0;-12.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "28.0;-12.0"
+        },
+        "27.0;-13.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "27.0;-13.0"
+        },
+        "26.0;-14.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "26.0;-14.0"
+        },
+        "25.0;-15.0": {
+            "tile_type": "enemies",
+            "variant": 6,
+            "position": "25.0;-15.0"
+        }
+    },
+    "offgrid_tiles": [
+        {
+            "tile_type": "Willows",
+            "variant": 1,
+            "position": "565.6500000000001;-293.25"
+        },
+        {
+            "tile_type": "Trees",
+            "variant": 0,
+            "position": "723.8;156.35"
+        },
+        {
+            "tile_type": "Stones",
+            "variant": 0,
+            "position": "635.4000000000001;-183.1"
+        },
+        {
+            "tile_type": "Stones",
+            "variant": 4,
+            "position": "691.95;228.65000000000003"
+        },
+        {
+            "tile_type": "Stones",
+            "variant": 4,
+            "position": "691.95;228.65000000000003"
+        },
+        {
+            "tile_type": "Stones",
+            "variant": 4,
+            "position": "691.95;228.65000000000003"
+        },
+        {
+            "tile_type": "Stones",
+            "variant": 3,
+            "position": "214.60000000000002;231.40000000000003"
+        },
+        {
+            "tile_type": "Ridges",
+            "variant": 0,
+            "position": "896.95;232.5"
+        },
+        {
+            "tile_type": "Ridges",
+            "variant": 1,
+            "position": "908.2;-151.5"
+        },
+        {
+            "tile_type": "Pointers",
+            "variant": 3,
+            "position": "1063.9;44.849999999999994"
+        },
+        {
+            "tile_type": "Pointers",
+            "variant": 3,
+            "position": "135.5;-50.599999999999994"
+        },
+        {
+            "tile_type": "Grass",
+            "variant": 0,
+            "position": "622.75;239.55"
+        },
+        {
+            "tile_type": "Grass",
+            "variant": 0,
+            "position": "254.35;238.45"
+        },
+        {
+            "tile_type": "Grass",
+            "variant": 0,
+            "position": "575.0;-143.79999999999998"
+        },
+        {
+            "tile_type": "Grass",
+            "variant": 0,
+            "position": "237.4;-144.35"
+        },
+        {
+            "tile_type": "Grass",
+            "variant": 2,
+            "position": "880.5;-141.04999999999998"
+        },
+        {
+            "tile_type": "Grass",
+            "variant": 2,
+            "position": "784.8;242.3"
+        },
+        {
+            "tile_type": "Grass",
+            "variant": 8,
+            "position": "385.90000000000003;-140.09999999999997"
+        },
+        {
+            "tile_type": "Grass",
+            "variant": 8,
+            "position": "726.5;-140.64999999999998"
+        },
+        {
+            "tile_type": "Grass",
+            "variant": 8,
+            "position": "746.3000000000001;244.05"
+        },
+        {
+            "tile_type": "Grass",
+            "variant": 8,
+            "position": "746.3000000000001;244.05"
+        },
+        {
+            "tile_type": "Grass",
+            "variant": 5,
+            "position": "366.70000000000005;244.05"
+        },
+        {
+            "tile_type": "Grass",
+            "variant": 5,
+            "position": "301.8;245.15000000000003"
+        },
+        {
+            "tile_type": "Grass",
+            "variant": 5,
+            "position": "492.8;-138.4"
+        },
+        {
+            "tile_type": "Bushes",
+            "variant": 8,
+            "position": "432.55;-148.79999999999998"
+        },
+        {
+            "tile_type": "Bushes",
+            "variant": 0,
+            "position": "412.75;-140.0"
+        },
+        {
+            "tile_type": "Bushes",
+            "variant": 6,
+            "position": "786.1;-150.45"
+        },
+        {
+            "tile_type": "Bushes",
+            "variant": 2,
+            "position": "699.05;-139.9"
+        },
+        {
+            "tile_type": "Bushes",
+            "variant": 6,
+            "position": "253.75;-150.7"
+        },
+        {
+            "tile_type": "Bushes",
+            "variant": 5,
+            "position": "423.3;241.55"
+        },
+        {
+            "tile_type": "Bushes",
+            "variant": 6,
+            "position": "483.3;241.0"
+        },
+        {
+            "tile_type": "Bushes",
+            "variant": 7,
+            "position": "442.90000000000003;232.75"
+        },
+        {
+            "tile_type": "Bushes",
+            "variant": 6,
+            "position": "962.55;236.90000000000003"
+        },
+        {
+            "tile_type": "Bushes",
+            "variant": 7,
+            "position": "826.25;235.8"
+        },
+        {
+            "tile_type": "Fence",
+            "variant": 0,
+            "position": "395.3;240.25"
+        },
+        {
+            "tile_type": "Fence",
+            "variant": 1,
+            "position": "724.0;238.60000000000002"
+        },
+        {
+            "tile_type": "Fence",
+            "variant": 2,
+            "position": "884.9;244.10000000000002"
+        },
+        {
+            "tile_type": "Fence",
+            "variant": 2,
+            "position": "875.5500000000001;243.55"
+        },
+        {
+            "tile_type": "Fence",
+            "variant": 0,
+            "position": "198.70000000000002;240.8"
+        },
+        {
+            "tile_type": "Fence",
+            "variant": 1,
+            "position": "210.8;-145.0"
+        },
+        {
+            "tile_type": "Fence",
+            "variant": 2,
+            "position": "219.95000000000002;-138.95"
+        },
+        {
+            "tile_type": "Boxes",
+            "variant": 0,
+            "position": "746.85;-153.79999999999998"
+        },
+        {
+            "tile_type": "Boxes",
+            "variant": 1,
+            "position": "540.6;231.3"
+        },
+        {
+            "tile_type": "Boxes",
+            "variant": 2,
+            "position": "162.55;-57.39999999999998"
+        },
+        {
+            "tile_type": "Trees",
+            "variant": 2,
+            "position": "304.95000000000005;-275.35"
+        },
+        {
+            "tile_type": "Grass",
+            "variant": 0,
+            "position": "80.1;48.599999999999994"
+        },
+        {
+            "tile_type": "Grass",
+            "variant": 5,
+            "position": "76.80000000000001;-106.9"
+        },
+        {
+            "tile_type": "Grass",
+            "variant": 5,
+            "position": "166.55;-44.19999999999999"
+        },
+        {
+            "tile_type": "Fence",
+            "variant": 0,
+            "position": "1089.0500000000002;49.55000000000001"
+        },
+        {
+            "tile_type": "Willows",
+            "variant": 0,
+            "position": "259.3;128.0"
+        },
+        {
+            "tile_type": "hero",
+            "variant": 1,
+            "position": "581.75;194.4"
+        },
+        {
+            "tile_type": "item",
+            "variant": 0,
+            "position": "152.60000000000002;182.95"
+        },
+        {
+            "tile_type": "item",
+            "variant": 0,
+            "position": "17.450000000000017;129.55"
+        },
+        {
+            "tile_type": "item",
+            "variant": 0,
+            "position": "-94.75;79.5"
+        },
+        {
+            "tile_type": "item",
+            "variant": 0,
+            "position": "102.60000000000002;0.05000000000001137"
+        },
+        {
+            "tile_type": "item",
+            "variant": 0,
+            "position": "44.849999999999994;-124.25"
+        },
+        {
+            "tile_type": "item",
+            "variant": 0,
+            "position": "1005.3000000000001;-29.099999999999994"
+        },
+        {
+            "tile_type": "item",
+            "variant": 0,
+            "position": "1308.5500000000002;97.5"
+        },
+        {
+            "tile_type": "item",
+            "variant": 0,
+            "position": "1088.5500000000002;165.15000000000003"
+        },
+        {
+            "tile_type": "item",
+            "variant": 0,
+            "position": "1061.35;-120.5"
+        },
+        {
+            "tile_type": "item",
+            "variant": 0,
+            "position": "1000.75;-213.55"
+        },
+        {
+            "tile_type": "enemies",
+            "variant": 4,
+            "position": "652.45;95.1"
+        }
+    ],
+    "tile_size": 32
+}

@@ -1,0 +1,76 @@
+{
+    "tilemap": {
+        "7.0;9.0": {
+            "tile_type": "grass",
+            "variant": 0,
+            "position": "7.0;9.0"
+        },
+        "8.0;9.0": {
+            "tile_type": "grass",
+            "variant": 0,
+            "position": "8.0;9.0"
+        },
+        "9.0;9.0": {
+            "tile_type": "grass",
+            "variant": 0,
+            "position": "9.0;9.0"
+        },
+        "10.0;9.0": {
+            "tile_type": "grass",
+            "variant": 0,
+            "position": "10.0;9.0"
+        },
+        "11.0;9.0": {
+            "tile_type": "grass",
+            "variant": 0,
+            "position": "11.0;9.0"
+        },
+        "12.0;9.0": {
+            "tile_type": "grass",
+            "variant": 0,
+            "position": "12.0;9.0"
+        },
+        "13.0;9.0": {
+            "tile_type": "grass",
+            "variant": 0,
+            "position": "13.0;9.0"
+        },
+        "14.0;9.0": {
+            "tile_type": "grass",
+            "variant": 0,
+            "position": "14.0;9.0"
+        },
+        "15.0;9.0": {
+            "tile_type": "grass",
+            "variant": 0,
+            "position": "15.0;9.0"
+        },
+        "16.0;9.0": {
+            "tile_type": "grass",
+            "variant": 0,
+            "position": "16.0;9.0"
+        },
+        "17.0;9.0": {
+            "tile_type": "grass",
+            "variant": 0,
+            "position": "17.0;9.0"
+        },
+        "18.0;9.0": {
+            "tile_type": "grass",
+            "variant": 0,
+            "position": "18.0;9.0"
+        },
+        "8.0;7.0": {
+            "tile_type": "hero",
+            "variant": 0,
+            "position": "8.0;7.0"
+        },
+        "17.0;6.0": {
+            "tile_type": "enemies",
+            "variant": 0,
+            "position": "17.0;6.0"
+        }
+    },
+    "offgrid_tiles": [],
+    "tile_size": 32
+}
