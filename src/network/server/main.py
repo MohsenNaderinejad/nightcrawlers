@@ -167,6 +167,15 @@ class Server:
                     continue
                 
                 message_type = message.get("type")
+
+                if message_type == 'logout_request':
+                    set_player_offline(player.id)
+                    player.close()
+                    player.send({
+                        "type": "logout_confirmed",
+                        "message": "Logout Confirmed"
+                    })
+                    break
                 
                 if not player.in_queue:
                     if message_type == "invitation":

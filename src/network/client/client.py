@@ -45,6 +45,18 @@ class GameClient:
         self.running = False
         self.socket.close()
 
+    def send_logout_request(self):
+        if not self.running or self.id is None:
+            return
+        logout = {
+            "type": "logout_request",
+            "data": {}
+        }
+        try:
+            self.socket.send(orjson.dumps(logout) + b"\n")
+        except (ConnectionResetError, BrokenPipeError):
+            self.running = False
+
     def send_invitation(self, name, hashtag):
         if not self.running or self.id is None:
             return
@@ -56,7 +68,6 @@ class GameClient:
             }
         }
         self.socket.send(orjson.dumps(invitation) + b"\n")
-        # print(f"[CLIENT] Sent Invitation to Player {name}/{hashtag}")
 
     def send_invitation_cancel(self):
         if not self.running or self.id is None:
@@ -66,7 +77,6 @@ class GameClient:
             "data": {}
         }
         self.socket.send(orjson.dumps(cancel) + b"\n")
-        # print(f"[CLIENT] Sent Invitation Cancel")
 
     def send_invitation_acceptance(self):
         if not self.running or self.id is None:
@@ -76,7 +86,6 @@ class GameClient:
             "data": {}
         }
         self.socket.send(orjson.dumps(acceptance) + b"\n")
-        # print(f"[CLIENT] Sent Invitation Acceptance")
 
     def send_invitation_rejection(self):
         if not self.running or self.id is None:
@@ -86,7 +95,6 @@ class GameClient:
             "data": {}
         }
         self.socket.send(orjson.dumps(rejection) + b"\n")
-        # print(f"[CLIENT] Sent Invitation Rejection")
 
     def clear_invitation_info(self):
         self.invitation_sent_successfully = False
@@ -98,7 +106,6 @@ class GameClient:
             "name": None,
             "hashtag": None
         }
-        # print("[CLIENT] Cleared Invitation Info")
 
     def send_match_request(self, mode: str, player_operator):
         if not self.running or self.id is None:
@@ -115,8 +122,6 @@ class GameClient:
         }
         self.socket.send(orjson.dumps(request) + b"\n")
 
-        # print(f"[CLIENT] Sent Match Request")
-
     def send_match_request_cancel(self):
         if not self.running or self.id is None:
             return
@@ -125,7 +130,6 @@ class GameClient:
             "data": {}
         }
         self.socket.send(orjson.dumps(cancel) + b"\n")
-        # print(f"[CLIENT] Sent Match Request Cancel")
 
     def send_operator_confirm(self):
         if not self.running or self.id is None:
@@ -138,8 +142,6 @@ class GameClient:
             }
         }
         self.socket.send(orjson.dumps(message) + b"\n")
-
-        # print("[CLIENT] Sent Operator Confirmation")
 
     def exit_match(self):
         self.mode = None
@@ -200,7 +202,6 @@ class GameClient:
 
             if msg_type == "assign_id":
                 self.id = message["id"]
-                # print(f"[CLIENT] Assigned ID: {self.id}")
 
             elif msg_type in ["operator_sync", "all_operators_confirmed", "state", "opp_ready", "forced_exit", "match_over"]:
                 if self.state_callback:
@@ -210,16 +211,13 @@ class GameClient:
                 self.mode = message["mode"]
                 self.player_operator = message["player_operator"]
                 self.in_queue = True
-                # print(f"[CLIENT] MATCH REQUEST ACCEPTED ---> MODE {self.mode} WITH OP {self.player_operator}")
 
             elif msg_type == "match_request_cancelled":
                 self.exit_match()
-                # print("[CLIENT] MATCH REQUEST CANCELLED")
 
             elif msg_type in ['registration_error', 'player_not_found', 'player_already_online', 'player_offline', 'player_cannot_invite_self', 'player_has_invitation']:
                 self.error_type = msg_type
                 self.error_message = message.get('message', 'Unknown error')
-                # print(f"[CLIENT ERROR] {self.error_message}")
 
             elif msg_type == 'invitation_sent_successfully':
                 self.invitation_sent_successfully = True
@@ -230,13 +228,11 @@ class GameClient:
                     "name": invited_player["name"],
                     "hashtag": invited_player["hashtag"]
                 }
-                # print("[CLIENT] Invitation Sent Confirmation")
 
             elif msg_type == 'player_has_invitation':
                 self.invitation_sent_successfully = True
                 self.invitation_accepted = False
                 self.invitation_ongoing = True
-                # print("[CLIENT] Player has Invitation")
 
             elif msg_type == 'invitation_from_player':
                 self.invitation_received = True
@@ -244,21 +240,19 @@ class GameClient:
                 self.player_invitation_info["id"] = message["data"]["id"]
                 self.player_invitation_info["name"] = message["data"]["name"]
                 self.player_invitation_info["hashtag"] = message["data"]["hashtag"]
-                # print("[CLIENT] Invitation Received")
 
             elif msg_type == 'invitation_acceptance':
                 self.invitation_accepted = True
-                # print("[CLIENT] Invitation Accepted")
 
             elif msg_type == 'invitation_rejected':
                 self.clear_invitation_info()
-                # print("[CLIENT] Invitation Rejected")
 
             elif msg_type == 'invitation_cancel_accepted':
                 self.clear_invitation_info()
-                # print("[CLIENT] Invitation Cancel Accepted")
+
+            elif msg_type == 'logout_confirmed':
+                self.running = False
 
         except Exception as e:
             print(f"[CLIENT ERROR] {e}")
-            # print(f"[CLIENT DEBUG] Raw JSON: {raw_json}")
             pass

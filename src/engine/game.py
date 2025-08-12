@@ -295,7 +295,7 @@ class Game:
             'mode_select': load_image('Mode Select.png',color_key_selector=True),
             'lobby_code': load_image('Lobby Code.png',color_key_selector=True),
             'invite_menu': load_image('Invite Menu.png', color_key_selector=True),
-            'waiting_for_invitation': load_image('Waiting for Invitation.png', color_key_selector=True),
+            'waiting_for_invitation': load_image('Waiting For Invitation.png', color_key_selector=True),
             'waiting_for_accept': load_image('Waiting For Accept.png', color_key_selector=True),
             'match_invitation': load_image('Match Invitation.png', color_key_selector=True),
             'invitation_accepted': load_image('Invitation Accepted.png', color_key_selector=True),
@@ -654,6 +654,12 @@ class Game:
         del self.client
         self.client = None
 
+    def logout_client(self):
+        while self.client.running:
+            self.client.send_logout_request()
+            time.sleep(0.01)
+        self.client_delete()
+
     def account_management(self):
         if self.client is None:
             buttons = [
@@ -737,7 +743,7 @@ class Game:
         else:
             running = [True]
             def logout(running):
-                self.client_delete()
+                self.logout_client()
                 running[0] = False
             
             buttons = [
